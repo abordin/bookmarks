@@ -22,4 +22,4 @@
 * [Trello](https://trello.com/) - Trello keeps track of everything, from the big picture to the minute details.
 * [Jsfiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online.
 * [Slack](https://slack.com/) - Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams.
-* (https://codeclimate.com/)[CodeClimate] - Automated code review for test coverage, complexity, duplication, security, style, and more.
+* [CodeClimate](https://codeclimate.com/) - Automated code review for test coverage, complexity, duplication, security, style, and more.
