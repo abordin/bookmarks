@@ -1,5 +1,8 @@
 ### Bookmarks
 
+Tools cataloged in order to help developers. It contains references to project management, team collaboration, analysis, continuous integration, among others. If you have any suggestions, please do a fork, add the same and a pull-request.
+More links will be added over time.
+
 #### Tools
 
 * [GitBook](https://www.gitbook.com/) - Writing made easy
@@ -32,3 +35,15 @@
 * [ARC - Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo) - REST client (like Postman), but with socket support
 * [InVision](https://www.invisionapp.com/) - Design prototype
 * [TypeTester](https://www.typetester.org/) - Compare fonts
+
+### Author
+
+* Jackson Veroneze - <jackson@jacksonveroneze.com> - <http://jacksonveroneze.com>
+* Mateus Calza - <mateushenrique17@gmail.com>
+* Mario Mendonça - <mariomendonca@gmail.com>
+
+See also the list of [contributors](https://github.com/jacksonveroneze/bookmarks/graphs/contributors) which participated in this project.
+
+### License
+
+Content is licensed under the MIT License - see the `LICENSE` file for details
