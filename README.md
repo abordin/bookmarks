@@ -25,3 +25,10 @@
 * [CodeClimate](https://codeclimate.com/) - Automated code review for test coverage, complexity, duplication, security, style, and more.
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Make your fast the Web pages on all devices.
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
+* [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
+* [Unsplash](https://unsplash.com/) - Free images for commercial use.
+* [IM Creator](http://www.imcreator.com/free) - Free images for commercial use.
+* [UI Faces](http://uifaces.com/) - Free avatars for commercial use.
+* [ARC - Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo) - REST client (like Postman), but with socket support
+* [InVision](https://www.invisionapp.com/) - Design prototype
+* [TypeTester](https://www.typetester.org/) - Compare fonts
