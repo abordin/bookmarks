@@ -39,8 +39,8 @@ More links will be added over time.
 ### Author
 
 * Jackson Veroneze - <jackson@jacksonveroneze.com> - <http://jacksonveroneze.com>
-* Mateus Calza - <mateushenrique17@gmail.com>
-* Mario Mendonça - <mariomendonca@gmail.com>
+* Mateus Calza - <mateushenrique17@gmail.com> - <https://github.com/mateuscalza>
+* Mario Mendonça - <mariomendonca@gmail.com> - <https://github.com/mm75>
 
 See also the list of [contributors](https://github.com/jacksonveroneze/bookmarks/graphs/contributors) which participated in this project.
 
