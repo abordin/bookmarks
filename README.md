@@ -36,7 +36,7 @@ More links will be added over time.
 * [InVision](https://www.invisionapp.com/) - Design prototype
 * [TypeTester](https://www.typetester.org/) - Compare fonts
 
-### Author
+### Authors
 
 * Jackson Veroneze - <jackson@jacksonveroneze.com> - <http://jacksonveroneze.com>
 * Mateus Calza - <mateushenrique17@gmail.com> - <https://github.com/mateuscalza>
